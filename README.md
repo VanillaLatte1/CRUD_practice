@@ -1,6 +1,7 @@
 # CRUD_practice
 
 ## CRUD 연습
+> * 간단한 CRUD 예제입니다.
 > * POSTMAN 사용
 > * JSON 형식 데이터 CRUD 가능
 
